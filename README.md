@@ -41,10 +41,11 @@ Ajuda
 
 
 
-Design e Decisões de Layout
+Design e Decisões de Layout:
 
 O layout foi pensado para transmitir leveza e elegância, com foco em:
 Cores neutras focado no skin care
+
 
 
 
