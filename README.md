@@ -8,3 +8,5 @@ O objetivo do projeto é criar uma plataforma digital moderna, intuitiva e acess
 
 Site criado com as seguintes tecnologias:
 Html e css 
+
+link figma: https://www.figma.com/proto/UjxAmhyGU0EGSrrdCEAhik/tela-home?node-id=0-1&t=FSGPcqeBFZ4N7TwG-1&classId=51e165bb-0749-46ee-9e81-1eb0b6faaf7f&assignmentId=e4e9537c-59ed-4536-b370-974fc6129631&submissionId=61885a6f-b9fa-b587-017b-c24924319fbb
